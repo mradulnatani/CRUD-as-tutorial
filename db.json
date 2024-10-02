@@ -3,12 +3,12 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": false
+      "important": true
     },
     {
       "id": "2",
       "content": "Browser can execute only JavaScript",
-      "important": true
+      "important": false
     },
     {
       "id": "3",
@@ -74,6 +74,16 @@
       "id": "16",
       "content": "chgfyu",
       "important": true
+    },
+    {
+      "id": "17",
+      "content": "Hello",
+      "important": false
+    },
+    {
+      "id": "18",
+      "content": "priyanshu is GOAT",
+      "important": false
     }
   ]
 }

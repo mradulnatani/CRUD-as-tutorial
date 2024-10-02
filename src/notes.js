@@ -1,6 +1,6 @@
 import axios from 'axios'
-const baseUrl = 'http://localhost:3001/notes'
-
+const baseUrl = 'https://backend-crud-as-tutorial.onrender.com/api/notes'
+app.use(express.static('dist'))
 const getAll = () => {
   const request = axios.get(baseUrl)
   const nonExisting ={
